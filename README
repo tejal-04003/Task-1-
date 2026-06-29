@@ -21,8 +21,8 @@ Customer Personality Analysis (Kaggle)
 - Saved the cleaned dataset
 
 ## Files
-- Task1.py
-- 
+- Task1.ipynb
+- marketing_campaign.csv 
 - cleaned_dataset.csv
 - Data Cleaning And Preprocessing Report.pdf
 
