@@ -1,0 +1,33 @@
+# Data Cleaning and Preprocessing using Python
+
+## Objective
+Clean and preprocess a raw dataset using Python (Pandas).
+
+## Dataset
+Customer Personality Analysis (Kaggle)
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
+
+## Data Cleaning Steps
+- Loaded the dataset
+- Checked missing values
+- Removed duplicate rows
+- Standardized text values
+- Renamed column headers
+- Verified data types
+- Saved the cleaned dataset
+
+## Files
+- task1.py
+- cleaned_dataset.csv
+- Data_Cleaning_Report.pdf
+
+## Skills Learned
+- Data Cleaning
+- Data Preprocessing
+- Pandas
+- Handling Missing Values
+- Removing Duplicates
