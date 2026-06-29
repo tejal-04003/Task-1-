@@ -9,7 +9,7 @@ Customer Personality Analysis (Kaggle)
 ## Tools Used
 - Python
 - Pandas
-- VS Code
+- Google Colab 
 
 ## Data Cleaning Steps
 - Loaded the dataset
@@ -21,9 +21,10 @@ Customer Personality Analysis (Kaggle)
 - Saved the cleaned dataset
 
 ## Files
-- task1.py
+- Task1.py
+- 
 - cleaned_dataset.csv
-- Data_Cleaning_Report.pdf
+- Data Cleaning And Preprocessing Report.pdf
 
 ## Skills Learned
 - Data Cleaning
